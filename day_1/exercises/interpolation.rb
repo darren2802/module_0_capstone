@@ -21,5 +21,3 @@ slow_poke = "tortoise"
 speedy = "hare"
 
 # YOUR CODE HERE
-
-# test comment for git commit

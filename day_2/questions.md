@@ -26,7 +26,7 @@
       1. ! (not)
       1. != (not equal)
       1. == (equal)
-      1. >= (greater than or equal to)
+      1. \>= (greater than or equal to)
       1. <= (less than or equal to)
       1. true
       1. false

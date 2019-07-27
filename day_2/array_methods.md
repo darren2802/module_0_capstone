@@ -1,4 +1,4 @@
-##Array Methods:
+## Array Methods:
 
 **arr.first**
  - will return the first element of arr

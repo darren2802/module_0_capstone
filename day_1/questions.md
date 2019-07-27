@@ -1,10 +1,10 @@
 ## Day 1 Questions
 
 1. How would you print the string `"Hello World!"` to the terminal?
-  1.  `p "Hello World!"`
+   1.  `p "Hello World!"`
 
 1. What is the character you would use to indicate comments in a ruby file?
-  1. `#`
+   1. `#`
 
 1. Explain the difference between an integer and a float?
   1. Integers are rounded numbers whereas floats can have more precision and decimals
@@ -22,5 +22,5 @@
   1. `gets.chomp`
 
 1. Name and describe two common string methods.
-  1. `my_string.length` will return the number of characters in my_string
-  1. `my_string.gsub!("my","your")` will mutate my_string by replacing all occurrences of "my" with "your" (to do the same thing non-destructively exclude the bang operator "!")
+   1. `my_string.length` will return the number of characters in my_string
+   1. `my_string.gsub!("my","your")` will mutate my_string by replacing all occurrences of "my" with "your" (to do the same thing non-destructively exclude the bang operator "!")

@@ -35,6 +35,7 @@ puts ""
 
   if number == 1
     line1.gsub!("monkeys", "monkey")
+    line2.gsub!("One", "He")
     line4 = "\"Get those monkeys right to bed!\""
   end
 
